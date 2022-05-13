@@ -1,22 +1,20 @@
 # Fit-Inn - Team Jonathan
 
-![banner](https://raw.githubusercontent.com/brettd6/testimgupload/main/fitinn%20vendia.png)
+![banner](https://raw.githubusercontent.com/dlabella780/fit-inn/main/public/fitinn_vendia.png)
 
 # Table of Contents
-- Synopsis
-- Features Implemented in CSC 190
-- Testing
-- Deployment
-- Agile Timeline
-- Credits
+- [Synopsis](#synopsis)
+- [Features Implemented in CSC 190]
+- [Testing]
+- [Deployment]
+- [Agile Timeline]
+- [Credits](#credits)
 
 # Synopsis
 
-Fit-Inn is a web-based service that allows users to both post listings and make reservations for home gyms.
+Fit-Inn is a web-based home gym rental service, designed to allow owners of home gym equipment to rent their space and equipment for financial compensation as well as allowing other users to reserve a time slot at owner's home gyms. The service will facilitate payment, scheduling, and keep track of every user's information via user profiles. Users will log into their profiles using Single Sign-On.
 
-Fit-Inn is a web-based home gym rental service, designed to allow owners of home gym equipment to rent their space and equipment for financial compensation as well as allowing other users to reserve a time slot at owner's home gyms. Additionally, the service serves as an open-source proof-of-concept demonstrating the capabilities and technology of Vendia. 
-
-The service will facilitate payment, scheduling, and keep track of every user's information via user profiles. Users will log into their profiles using Single Sign-On.
+This project also serves as a design reference for developing a full stack web application using Vendia as its database.
 
 # Features Implemented in CSC 190
 
@@ -27,6 +25,18 @@ The service will facilitate payment, scheduling, and keep track of every user's 
 - Sort function for users to have a good experience with our website. 
 - Users can create an account and log in. Users can keep track and place the approriate gym in their account.
 - As a host, we can keep track and store the user's information after the user create/ submit the request.
+
+# Vendia
+
+Vendia is a proprietary database based on blockchain technology. Projects are labeled as "Universal Applications" or "Unis“. 
+
+Unis "are cross-cloud, cross-party, cross-account, cross-region data and code sharing applications powered by Vendia's serverless distributed ledger technology. ”
+
+“A Uni is composed of nodes modeling participants, each of which possesses an ordered, replicated data model in the form of a distributed ledger." 
+
+-Vendia
+
+
 # Testing
 
 Testing was not done during CSC 190; will be expanded upon during CSC 191.
@@ -72,7 +82,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-# Agile Timeline
+# Agile Timeline for 191
  
 This is the current timeline for our project. By the end of these sprints we plan to have the following accomplished:
 
