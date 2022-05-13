@@ -4,10 +4,11 @@
 
 # Table of Contents
 - [Synopsis](#synopsis)
-- [Features Implemented in CSC 190](#Features-Implemented-in-CSC-190)
-- [Testing]
-- [Deployment]
-- [Agile Timeline]
+- [Features Implemented in CSC 190](#features-implemented-in-csc-190)
+- [Vendia](#vendia)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Agile Timeline](#agile-timeline-for-191)
 - [Credits](#credits)
 
 # Synopsis
@@ -18,21 +19,24 @@ This project also serves as a design reference for developing a full stack web a
 
 # Features Implemented in CSC 190
 
-- Gym listings/user profiles that read information from Vendia database.
-- Gym uploading and profile editing features that write information to Vendia database.
-- Using database information to display the match gym for users.
-- Display gym listings with many options for users.
-- Sort function for users to have a good experience with our website. 
-- Users can create an account and log in. Users can keep track and place the approriate gym in their account.
-- As a host, we can keep track and store the user's information after the user create/ submit the request.
+## Completed Features
+
+- Functional website with redirects to all required pages.
+- User profile page that reads information from Vendia database.
+- Gym upload page to add a new gym to the database.
+- Edit profile page to update user information in database.
+
+## Frameworks Established
+
+- Gym search page with sorting options.
+- Gym listing page displaying relevant.
+- Help page with links to additional .
 
 # Vendia
 
 Vendia is a proprietary database based on blockchain technology. Projects are labeled as "Universal Applications" or "Unis“. 
 
-Unis "are cross-cloud, cross-party, cross-account, cross-region data and code sharing applications powered by Vendia's serverless distributed ledger technology. ”
-
-“A Uni is composed of nodes modeling participants, each of which possesses an ordered, replicated data model in the form of a distributed ledger." 
+Unis are "cross-cloud, cross-party, cross-account, cross-region data and code sharing applications powered by Vendia's serverless distributed ledger technology. A Uni is composed of nodes modeling participants, each of which possesses an ordered, replicated data model in the form of a distributed ledger." 
 
 -Vendia
 
@@ -70,7 +74,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
