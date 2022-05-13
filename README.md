@@ -4,7 +4,7 @@
 
 # Table of Contents
 - [Synopsis](#synopsis)
-- [Features Implemented in CSC 190](#features)
+- [Features Implemented in CSC 190](#Features Implemented in CSC 190)
 - [Testing]
 - [Deployment]
 - [Agile Timeline]
